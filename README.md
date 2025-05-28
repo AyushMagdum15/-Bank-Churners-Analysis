@@ -1,4 +1,5 @@
 **Bank Churners Analysis**
+
 This project presents an Exploratory Data Analysis (EDA) of a bank's customer dataset to identify key factors contributing to customer churn. By analyzing various customer attributes, the goal is to uncover insights that can help in developing strategies to retain valuable customers.
 
 
